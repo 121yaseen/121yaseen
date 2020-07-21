@@ -2,6 +2,8 @@
 
 I am a UG student in India , AI enthusiast, specialized on Deeplearning
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/121yaseen)
+
 <!--
 **121yaseen/121yaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
